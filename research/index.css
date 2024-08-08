@@ -1,1 +1,32 @@
 @import url(../index.css);
+
+.inicio {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 50px;
+}
+
+.research img{
+    height: 250px;
+    width: 350px;
+}
+
+h3{
+    font-size: 20px;
+
+}
+
+p, span, a{
+    font-size: 15px;
+
+}
+
+.research tr {
+    display: flex;
+    gap: 50px;
+    padding-bottom: 30px;
+}
+
+.inicioLateralIzquierdo {
+    height: auto
+};
